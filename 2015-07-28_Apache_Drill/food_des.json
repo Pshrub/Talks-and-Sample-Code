@@ -1,0 +1,38 @@
+{
+    "ndb_no":"08613",
+    "shrt_desc":"CEREALS RTE,KELLOGG'S SPL K MULTIGRAIN OATS & HONEY",
+    "nut_data":[{
+        "nutr_no": "203",
+        "nutr_val": "7.80",
+        "nutr_def": {"num_dec":2,"tagname":"PROCNT","nutrdesc":"Protein"},
+        "data_src":[{
+          "datasrc_id": "S6941",
+          "authors": "A Kellogg, Co.",
+          "title": "Kellogg Company Data",
+          "Year": "2011"
+        }]
+    }, {
+        "nutr_no": "204",
+        "nutr_val": "1.80",
+        "nutr_def": {"num_dec":2,"tagname":"FAT","nutrdesc":"Total lipid (fat)"},
+        "data_src":[{
+          "datasrc_id": "S6941",
+          "authors": "B Kellogg, Co.",
+          "title": "Kellogg Company Data",
+          "Year": "2011"
+        }]
+
+    }, {
+        "nutr_no": "205",
+        "nutr_val": "85.00",
+        "nutr_def": {"num_dec":2,"tagname":"CHOCDF","nutrdesc":"Carbohydrate, by difference"},
+        "data_src":[{
+          "datasrc_id": "S6941",
+          "authors": "C Kellogg, Co.",
+          "title": "Kellogg Company Data",
+          "Year": "2011"
+        }]
+    }],
+    "langual":["ANISE","FRUIT","WHOLE, NATURAL SHAPE","NOT HEAT-TREATED","COOKING METHOD NOT APPLICABLE","WATER REMOVED","HEAT DRIED","HUMAN FOOD, NO AGE SPECIFICATION"]
+}
+

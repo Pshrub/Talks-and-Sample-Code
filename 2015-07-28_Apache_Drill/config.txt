@@ -1,0 +1,14 @@
+    "nndb": {
+      "type": "text",
+      "extensions": [ "txt" ],
+      "quote": "~",
+      "escape": "~",
+      "delimiter": "^"
+    },
+
+    "nndb": {
+      "location": "/opt/drill/nndb",
+      "writable": true,
+      "storageformat": "parquet"
+    },
+
